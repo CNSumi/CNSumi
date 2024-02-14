@@ -1,7 +1,9 @@
-### Hi there 👋
+<a href="#stats" align="center">
+    <img align="center" alt="CNSumi's Github Stats" src="https://github-readme-stats.vercel.app/api?username=cnsumi&count_private=true&show_icons=true&include_all_commits=true&show_owner=true&theme=material-palenight"/>
+</a>
 
 <!--
-**CNSumi/CNSumi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**cnsumi/cnsumi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
